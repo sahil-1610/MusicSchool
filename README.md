@@ -1,3 +1,6 @@
+## THE frontend Project in Next js , a music school website which offers various Courses made with acertinityUI and tailwindcss
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
